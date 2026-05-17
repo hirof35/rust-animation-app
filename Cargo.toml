@@ -1,0 +1,11 @@
+[package]
+name = "rust-animation-app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# 💡 macroquadの行を完全に削除し、egui-macroquadだけに絞ります
+egui-macroquad = "0.14"
+rfd = "0.14"
+gif = "0.13"
+chrono = "0.4"

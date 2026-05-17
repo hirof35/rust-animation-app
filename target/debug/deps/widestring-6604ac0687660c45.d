@@ -1,0 +1,11 @@
+C:\Users\good5\rust-animation-app\target\debug\deps\widestring-6604ac0687660c45.d: C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\lib.rs C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\platform\mod.rs C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\platform\windows.rs C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\ucstr.rs C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\ucstring.rs C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\ustr.rs C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\ustring.rs
+
+C:\Users\good5\rust-animation-app\target\debug\deps\libwidestring-6604ac0687660c45.rmeta: C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\lib.rs C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\platform\mod.rs C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\platform\windows.rs C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\ucstr.rs C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\ucstring.rs C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\ustr.rs C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\ustring.rs
+
+C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\lib.rs:
+C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\platform\mod.rs:
+C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\platform\windows.rs:
+C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\ucstr.rs:
+C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\ucstring.rs:
+C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\ustr.rs:
+C:\Users\good5\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\widestring-0.4.3\src\ustring.rs:
